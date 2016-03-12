@@ -79,4 +79,4 @@ if(identical(  round(cachedInverse%*%m.without.cache$get(),3),
 
 ##If you want to test the cacheSolve() and makeMatrix() functions
 ##uncomment the line below and press ALT+CTR+R
-mySimpleTest()
+#mySimpleTest()
